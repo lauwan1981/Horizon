@@ -88,7 +88,18 @@
     ],
     "telegram": {
       "enabled": false
-    }
+    },
+    "twitter": {
+    "enabled": true,
+    "users": [],
+    "keywords": ["薅羊毛", "羊毛", "免费领", "限时免费", "0元购", "神价", "漏洞价", "白嫖", "免单", "优惠券", "满减", "红包", "返现", "补贴", "免费试用", "抵扣券", "线报", "freebie", "free trial", "promo code", "100% off"],
+    "fetch_limit": 10,
+    "fetch_reply_text": false,
+    "max_replies_per_tweet": 3,
+    "max_tweets_to_expand": 10,
+    "reply_min_likes": 5,
+    "profile": "tech-news"
+  }
   },
   "webhook": {
     "enabled": false
