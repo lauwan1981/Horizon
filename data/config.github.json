@@ -9,7 +9,7 @@
       "en"
     ],
     "max_tokens": 8192,
-    "model": "inclusionai/ling-3.2-flash:free",
+    "model": "particle-ai/particle-1:free",
     "provider": "openai",
     "temperature": 0.3,
     "throttle_sec": 1
