@@ -9,7 +9,7 @@
       "en"
     ],
     "max_tokens": 8192,
-    "model": "inclusionai/ling-3.2-flash:free",
+    "model": "nvidia/nemotron-3.5-lightning:free",
     "provider": "openai",
     "temperature": 0.3,
     "throttle_sec": 1
@@ -90,7 +90,7 @@
       "enabled": false
     },
     "twitter": {
-    "enabled": false
+    "enabled": false,
     "users": [],
     "keywords": ["免费额度 OR 免费领取 OR 羊毛 OR \"free credits\" OR \"free tier\""],
     "fetch_limit": 10,
