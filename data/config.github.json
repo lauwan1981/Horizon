@@ -90,7 +90,7 @@
       "enabled": false
     },
     "twitter": {
-    "enabled": true,
+    "enabled": false
     "users": [],
     "keywords": ["免费额度 OR 免费领取 OR 羊毛 OR \"free credits\" OR \"free tier\""],
     "fetch_limit": 10,
